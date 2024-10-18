@@ -1,0 +1,57 @@
+h1 {
+    color: #88d8c0;
+    font-weight: bold;
+    text-align: center;
+}
+
+caption {
+    color: #C77DFF;
+    font-size: 25px;
+}
+
+#cabecera td {
+    width: 100px;
+    background-color: beige;
+    text-align: center;
+    font-weight: bold;
+}
+
+td {
+    border: black 1px solid;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+#PED {
+    background-color: #b6cdf2;
+}
+#LMSGI {
+    background-color: #c8b6f2;
+}
+
+#BD {
+    background-color: #b7f2b6;
+}
+
+#SI {
+    background-color: #f2edb6;
+}
+
+#TUT {
+    background-color: #f2deb6;
+}
+
+#AN {
+    background-color: #f2bab6;
+}
+
+#DIW {
+    background-color: #f2b6ef;
+}
+
+#IPOI {
+    background-color: #57b87f;
+}
