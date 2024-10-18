@@ -1,3 +1,7 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 h1 {
     color: #88d8c0;
     font-weight: bold;
@@ -14,6 +18,8 @@ caption {
     background-color: beige;
     text-align: center;
     font-weight: bold;
+    font-size: 25px;
+    padding: 30px;
 }
 
 td {
@@ -23,35 +29,47 @@ td {
 table {
     border-collapse: collapse;
     margin: auto;
+    text-align: center;
 }
 
-#PED {
+.PED {
     background-color: #b6cdf2;
 }
-#LMSGI {
+.LMSGI {
     background-color: #c8b6f2;
 }
 
-#BD {
+.BD {
     background-color: #b7f2b6;
 }
 
-#SI {
+.SI {
     background-color: #f2edb6;
 }
 
-#TUT {
+.TUT {
     background-color: #f2deb6;
 }
 
-#AN {
+.AN {
     background-color: #f2bab6;
 }
 
-#DIW {
+.DIW {
     background-color: #f2b6ef;
 }
 
-#IPOI {
+.IPOI {
     background-color: #57b87f;
+}
+
+.hores {
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+}
+
+.descans {
+    font-size: 20px;
+    padding: 15px;
 }
